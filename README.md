@@ -3,7 +3,7 @@
 > курируемый и обновляемый контент
 
 ## Содержание
-- [Suz Hinton](#suz-hinton) - **streaming:** IoT, Web Development, Hardware Hacking, 3D Printing, Node.js, JavaScript
+- []() 
 
 ## Ресурсы
 
